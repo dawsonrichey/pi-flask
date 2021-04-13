@@ -15,3 +15,5 @@ git config --global user.name "dawsonrichey"
 git remote add origin https://github.com/dawsonrichey/pi-flask.git
 git branch -M main
 git push -u origin main
+
+mkdir templates
